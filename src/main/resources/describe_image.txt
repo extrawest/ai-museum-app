@@ -1,0 +1,21 @@
+Describe the image of the artwork based on the following criteria:
+
+Historical and Cultural Context: Provide a brief historical and cultural background relevant to the time and place where the artwork was created, highlighting any significant events, movements, or influences that shaped its creation.
+Visual Analysis: Describe the artwork’s visual elements, including color composition, style, texture, and notable techniques. Pay special attention to how these elements contribute to the overall mood and message of the piece.
+Artist Information: Introduce the artist, including key details about their life, influences, artistic philosophy, and notable works. Mention any art movements they were part of or influenced by.
+Creation Year: Specify the year the artwork was created, noting any unique context about that period that might influence interpretation.
+
+The goal is to create an informative, immersive description that brings the artwork’s background, aesthetic elements, and cultural significance to life.
+
+Return a code snippet with a JSON object formatted to look like:
+```json
+{
+  "description": string
+  "historicalAndCulturalContext": string
+  "visualAnalysis": string
+  "artistInformation": string
+  "creationYear": string
+}
+```
+
+Put into JSON fields full description. For example field "historicalAndCulturalContext" must contains full info from 'Historical and Cultural Context' paragraph and e.t.c.
