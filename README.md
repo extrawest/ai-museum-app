@@ -40,5 +40,3 @@ Museo Insight is an intelligent virtual museum guide that brings art to life by 
 ## Contributing
 
 Feel free to open issues or submit pull requests to improve the project. Contributions are welcome!
-
-## License
