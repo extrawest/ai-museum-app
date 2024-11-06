@@ -3,7 +3,7 @@
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)]()
 [![Maintainer](https://img.shields.io/static/v1?label=Yevhen%20Ruban&message=Maintainer&color=red)](mailto:yevhen.ruban@extrawest.com)
 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)]()
-![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)
+[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 ![GitHub release](https://img.shields.io/badge/release-v1.0.0-blue)
 
 Museo Insight is an intelligent virtual museum guide that brings art to life by providing users with rich, contextual information on a wide range of artworks. Built using Java 21, Spring Boot 3.3.3, and LangChain4J, the app seamlessly integrates with the MET Museum's API to allow users to search by department, explore specific works, and view images directly from one of the world’s largest art collections. Through AI-powered analysis, each piece is described in depth, highlighting its historical and cultural significance, visual style, artist background, and year of creation.
